@@ -1,5 +1,5 @@
 local colors = {
-  fg = "#FFFFFF",
+  fg = "#B3B3B3",
   bg = "#000000",
   sfg = "#969696",
   orange1 = "#DB8530",
