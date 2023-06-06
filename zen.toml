@@ -206,7 +206,7 @@
  SignAdd = 'fg'
  SignChange = 'fg'
  SignDelete = 'red'
- GitSignsAdd = 'green1'
+ GitSignsAdd = 'green'
  GitSignsChange = 'orange1'
  GitSignsDelete = 'red'
 
